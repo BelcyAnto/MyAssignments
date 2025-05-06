@@ -10,8 +10,6 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Parameters;
 
-import testcases.ReadExcel;
-
 public class ProjectSpecficParam
 {
 	public EdgeDriver driver; //Globally assign the browser
